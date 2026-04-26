@@ -1,0 +1,11 @@
+{
+  "name": "NailArt Studio Pro",
+  "description": "Virtual nail design trial using real-time hand tracking and AR overlays.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "hand_tracking",
+    "ar_visualization"
+  ]
+}
